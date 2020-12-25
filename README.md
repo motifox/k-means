@@ -11,4 +11,10 @@ show you the results of the algorithm.
 - numpy 1.19.4
 
 ## 流程图
-![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/QQ%E5%9B%BE%E7%89%8720201225194802.png)
+![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+## 输入
+![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/%E8%BE%93%E5%85%A5.jpg）
+
+##输出
+![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/%E8%BE%93%E5%87%BA.JPG）
