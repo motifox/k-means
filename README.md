@@ -17,4 +17,4 @@ show you the results of the algorithm.
 ![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/%E8%BE%93%E5%85%A5.png)
 
 ## 输出
-![image](https://github.com/motifox/k-means/blob/main/pictureforreadme/%E8%BE%93%E5%87%BA.png）
+![image] (https://github.com/motifox/k-means/blob/main/pictureforreadme/%E8%BE%93%E5%87%BA.png）
